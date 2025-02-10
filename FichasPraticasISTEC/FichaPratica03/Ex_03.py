@@ -1,5 +1,5 @@
-numero = 2
+numero = 531
 
-while (numero <= 400):
+while (numero <= 750):
     print(numero)
     numero = numero + 2
