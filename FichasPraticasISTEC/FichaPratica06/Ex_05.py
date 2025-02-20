@@ -20,6 +20,9 @@ for i in range(len(lista)):
 
 print(lista)
 
+# Retirar o último elemento (negativo)
+lista.pop(len(lista)-1)
+
 # Calcular a média (dividir o somatorio pela quantidade de elementos)
 media = soma / len(lista)
 
